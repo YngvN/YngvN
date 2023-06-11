@@ -1,33 +1,3 @@
-<script src="https://kit.fontawesome.com/bb746328b1.js" crossorigin="anonymous"></script>
-
-<style>
-
-.icon {
-
-
-    height: 20px;
-    widt: 20px;
-    padding: 10px;
-    padding-bottom: 5px;
-    border-radius: 5px;
-}
-
-.color-html {
-    filter: invert(48%) sepia(70%) saturate(7051%) hue-rotate(2deg) brightness(100%) contrast(84%);
-}
-
-.color-css {
-      filter: invert(100%) sepia(100%) saturate(1000%) hue-rotate(123deg) brightness(100%) contrast(100%);
-
-    /* filter: invert(100%) sepia(100%) saturate(2246%) hue-rotate(1910deg) brightness(90%) contrast(100%); */
-}
-
-.color-js {
-    filter: invert(100%) sepia(100%) saturate(2246%) hue-rotate(0deg) brightness(90%) contrast(100%);
-
-}
-</style>
-
 # Well, hello there
 
 <p>Thanks for coming to my hub. I'm still relatively new at using github, but I will fill this up **ASAP**!🖥⌨️💪</p>
@@ -43,14 +13,15 @@
 <details>
 <summary>What languages I know:</summary>
 
-|                                                                                 | Main languages |
-| ------------------------------------------------------------------------------: | -------------- |
-|   <div class="align"><img src="images/icons/html5.svg" class="icon color-html"> | HTML 5         |
-| <div class="align"><img src="images/icons/css3-alt.svg" class="icon color-css"> | CSS            |
-| <div class="align"><img src="images/icons/square-js.svg" class="icon color-js"> | Javascript     |
+|                                                              | Main languages |
+| -----------------------------------------------------------: | -------------- |
+|             <img src="images/icons/html5.svg" color="white"> | HTML 5         |
+| <img src="images/icons/css3-alt.svg" class="icon color-css"> | CSS            |
+| <img src="images/icons/square-js.svg" class="icon color-js"> | Javascript     |
 
 <details>
-<summary>Other languages</summary>
+<summary>Other languages:</summary>
+
 - C#
 - Python
 - SQL
