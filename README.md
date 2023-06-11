@@ -8,7 +8,7 @@
     height: 20px;
     widt: 20px;
     padding: 10px;
-    padding-bottom: 8px;
+    padding-bottom: 5px;
     border-radius: 5px;
 }
 
@@ -17,10 +17,13 @@
 }
 
 .color-css {
-    filter: invert(100%) sepia(100%) saturate(2246%) hue-rotate(1910deg) brightness(90%) contrast(100%);
+      filter: invert(100%) sepia(100%) saturate(1000%) hue-rotate(123deg) brightness(100%) contrast(100%);
+
+    /* filter: invert(100%) sepia(100%) saturate(2246%) hue-rotate(1910deg) brightness(90%) contrast(100%); */
 }
 
 .color-js {
+    filter: invert(100%) sepia(100%) saturate(2246%) hue-rotate(0deg) brightness(90%) contrast(100%);
 
 }
 </style>
@@ -47,7 +50,7 @@
 | <div class="align"><img src="images/icons/square-js.svg" class="icon color-js"> | Javascript     |
 
 <details>
-<summary></summary>
+<summary>Other languages</summary>
 - C#
 - Python
 - SQL
