@@ -1,12 +1,12 @@
 # Well, hello there
 
-<p>Thanks for coming to my hub. I'm still relatively new at using github, but I will fill this up **ASAP**!🖥⌨️💪</p>
+Thanks for coming to my hub. I'm still relatively new at using github, but I will fill this up **ASAP**!🖥⌨️💪
 
 ### About me
 
-- <p>📖👨‍🎓Currently studying Front-end Develepoment at **Noroff**<7p>
-- <p>I've also studied electrical engineering at **USN** where I've learned some back-end as well. <sub>Didn't finish the degree because I switched to front-end.</sub></p>
-- <p>I like to experiment with styles to see what works and doesn't, with all the fun stuff that follows.</p>
+- 📖👨‍🎓Currently studying Front-end Develepoment at *Noroff*
+- I've also studied electrical engineering at *University of South-East Norway* where I've learned some back-end as well. <sub>Didn't finish the degree because I switched to front-end.</sub>
+- I like to experiment with styles to see what works and doesn't, with all the fun stuff that follows.
 
 ### Skills
 
