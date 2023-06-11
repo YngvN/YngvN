@@ -10,14 +10,11 @@
 
 ### Skills
 
-<details>
-<summary>What languages I know:</summary>
-
-|                                                              | Main languages |
-| -----------------------------------------------------------: | -------------- |
-|             <img src="images/icons/html5.svg" color="white"> | HTML 5         |
-| <img src="images/icons/css3-alt.svg" class="icon color-css"> | CSS            |
-| <img src="images/icons/square-js.svg" class="icon color-js"> | Javascript     |
+|                                                                                 | Main languages |
+| ------------------------------------------------------------------------------: | -------------- |
+|       <img src="images/icons/HTML5_logo_and_wordmark.svg-min.png" width="20px"> | HTML 5         |
+| <img src="images/icons/2560px-CSS3_logo_and_wordmark.svg-min.png" width="15px"> | CSS            |
+|                   <img src="images/icons/JavaScript-logo-min.png" width="15px"> | Javascript     |
 
 <details>
 <summary>Other languages:</summary>
