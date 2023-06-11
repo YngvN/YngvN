@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hello, world!
+
+Thanks for coming to my hub. I'm still relatively new, but I will fill this up ASAP!
+
+
 
 <!--
 **YngvN/YngvN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
