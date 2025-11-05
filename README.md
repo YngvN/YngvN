@@ -1,10 +1,9 @@
 # Well, hello there
 
-Thanks for coming to my hub. I'm still relatively new at using github, but I will fill this up **ASAP**!🖥⌨️💪
 
 ### About me
 
-- 📖👨‍🎓Currently studying Front-end Develepoment at *Noroff*
+- Front-end Develepoment Degree
 - I've also studied electrical engineering at *University of South-East Norway* where I've learned some back-end as well. <sub>Didn't finish the degree because I switched to front-end.</sub>
 - I like to experiment with styles to see what works and doesn't, with all the fun stuff that follows.
 
@@ -19,6 +18,8 @@ Thanks for coming to my hub. I'm still relatively new at using github, but I wil
 <details>
 <summary>Other languages:</summary>
 
+- Typescript
+- Swift
 - C#
 - Python
 - SQL
