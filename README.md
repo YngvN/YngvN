@@ -50,12 +50,12 @@ I also work with **Wordpress**, **AI-assisted development workflows (Codex)**, a
 ---
 
 ## 🎵 Beyond coding  
-I'm also a musician and an all-around tech-head who loves tinkering with smart home setups — especially in HomeKit. If it has an API, I probably want to automate it.
+I'm also a musician and an all-around tech-head who loves tinkering with smart home setups, like Homekit.
 
 ---
 
 ## 🌐 My homepage  
-A sandbox where I experiment, break things, and occasionally ship something neat:
+My portfolio and resumé in one nice package:
 
 👉 **[yngvn.github.io](https://yngvn.github.io)**  
 Repo: **[github.com/YngvN/yngvn.github.io](https://github.com/YngvN/yngvn.github.io)**
