@@ -31,7 +31,7 @@
 
 I've also got experience with **Wordpress** and trying to learn new frameworks as well.</br>
 
-I'm using my ![home page](https://homepage.nykas.me) to practice what I've learned as well, with this ![repository](https://github.com/YngvN/home-page).
+My homepage:![home page](https://yngvn.github.io) to practice what I've learned as well, with this ![repository](https://github.com/YngvN/yngvn.github.io).
 
 ### Other than that
 
